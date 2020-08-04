@@ -1,1 +1,74 @@
-theme: jekyll-theme-minimal
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: tokyoneon
+#~ email: tokyoneon@pm.me
+description: "Star player of the Zanarkand Abes"
+url: https://tokyoneon.github.io # the base hostname & protocol for your site
+keywords: ["blog", "jekyll"]
+
+wht_credit: '<sup>_Authored by [tokyoneon](/about), this post was originally published on [WonderHowTo](https://creator.wonderhowto.com/tokyoneon/)._</sup>'
+# host: 192.168.56.1
+port: 4002
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          UTC
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: tokyoneon
+  avatar: tokyoneon.jpg
+  job: ""
+  bio: "OSCP / eCPPT / OSWP / eCXD </br>eWPTX / PenTest+ / CySA+ </br>Security+ / eJPT / CSAP </br>CNSP / CNVP"
+  email: "tokyoneon@pm.me"
+  disqus-shortname:
+  twitter: tokyoneon_
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: tokyoneon
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #tokyoneon
+  telegram: #username

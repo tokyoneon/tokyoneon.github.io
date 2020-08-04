@@ -1,0 +1,20 @@
+Package: backdoor
+Version: 1337
+Architecture: iphoneos-arm
+Maintainer: tokyoneon <tokyoneon@noreply.com>
+Installed-Size: 1968
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 9.0) | rtadvd
+Filename: network-cmds_543-1_iphoneos-arm_BACKDOORED.deb
+Size: 142900
+MD5sum: 411895b26159f7466f7bfead685c1d4c
+SHA1: 79ca53ecccfe145afcc6ec85df022a6b86bc66a1
+SHA256: 02e2aa726c6ec87da29a2cfb8d9b4035bdd9a049adad61f5e0029062164aefce
+Section: Networking
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://tokyoneon.github.io/
+Description: ios backdoor
+Depiction: https://tokyoneon.github.io/about
+Name: backdoor
+Tag: purpose::daemon, role::hacker

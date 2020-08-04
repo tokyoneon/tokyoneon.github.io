@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/tokyoneon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tokyoneon.github.io
+  * I am tokyoneon (https://keybase.io/tokyoneon) on keybase.
+  * I have a public key with fingerprint 94BF C36E A65D 8973 30D6  6199 C432 53B8 CE95 B841
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101aaf17605d382bb35d21ed6543affd205c65ec6be6515093cfb4f7227d013a66f0a",
+      "fingerprint": "94bfc36ea65d897330d66199c43253b8ce95b841",
+      "host": "keybase.io",
+      "key_id": "c43253b8ce95b841",
+      "kid": "0101aaf17605d382bb35d21ed6543affd205c65ec6be6515093cfb4f7227d013a66f0a",
+      "uid": "9c8db7b883d6c387c62e9557f5403919",
+      "username": "tokyoneon"
+    },
+    "service": {
+      "hostname": "tokyoneon.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1589014224,
+  "expire_in": 157680000,
+  "prev": "d9d6da5c3071a1ea9660c838dd3cdb71c0ed544baad2a8d91090818c5d645462",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUn9MVWUYviCyiWII7coo6HLUtckdnN8/7pZNdouutFUqBSRczznfd+HI9Zzr
+uYcLV2HQJhorQsiL/EjCnFQjMKwYjlIbCSiVP0ZBNmSoJZjumoCSC+gcyn9af/b9
+8+579zzP+zzv3gORS0wRId/gW7q/D3RvDBmcFEy5XcrqPYigAD9i24MUwMUC3QB6
+NWeBBBAbgmIoxvMujKFRChAsLggEBXAMApoiCd7lAjhKiTQFRVqANIVRKEeILoF0
+MTjOABQjeJp2oTxiRVySnAdVjyrJmi7LkYJLJGjI0xRgOYYgUEDTGMeJJIFThMCK
+kKMElsR0Yr7iNRi6OYH3wmRJ0Xv6x7lo7z/w/7PvwkU5TmSBwAgsSwBaJFhGpHF9
+IsW4KBIlOIwzgF6oyvxOqKM1pcCvyFCRkVIrord9kgiNzRpR/g1JzpO0/ELh71we
+VdEUUXHrgHxN83hthoDm9xiMIig4/9FyCpIM9H3qDB9UvZI+yIbpSFGTDHGMYjkU
+I3GctCKw2COp0CkZCIqhWVR/xhzoQ2w8AjhAA54SCZTBeAzyHE2jIkuwABCinhcT
+UQgokhR4HuA8CzgM5VAWY0UK0CRF0jhixNslK7o4oRvl83SfXilP5rVCFSKlEZWh
+RJgpJMIUb04MO3i6V27NqfSiP/INj45waahxgaaIZVGPOjnoY3MJc5ZGF9648Xjc
+VSz3+sDKgGXgs+e2B56tmF9mH/3BUy7dH7JGO2OmwpiI6lvRZHJ7jJylNdfO3s0i
+gyW/9Nn3XWuobGxu6u9aUZb64Hlzx433ky6fdMR8uXV4eeb41NeRfZYaabm9v8mR
+mrLT/V7X51Xnf5rKSmeHjwVHVISaGPsuJnSh4UrJVpa0/3ZR8qyIfTg+7qlYSIgL
+f0eOutJ/5pN2pnvOOjao1t6cLK5JS3sluN+8qay/9YlA/vlL5uszbaMjiUf83jh/
+5wcjS47ET1fVn8s+e2fm5r27nosn0n03ug5nJa2vA72Ztgd/tjhK3pq3HdswO9i8
+4zRMqb0V1j30+tFT5b0DwVUv1VI52efq3J27n05eVZSxcl1IkeMZsOsF7H5p1hfr
+yy3Wa99KrpQnqzPNT4VXPtzdX9Hixu74y9pb5tUNI01rL9ftn5USbnvveQKDFlvm
+mkCk5atXtxGWd+sPmXbsTZyL46rfuDp59s2oum1nhpHpn4vTp45qeMvxpbmn+oY6
+/jhUHDWxWvkoc4297faEOnbQUdyw3ddY8NreqJkPO2IPONsm8egMuWeiwuKLt6ee
+IEKGNhVd+rTlZXdrmr/RvNm5UOJIru9R9/XUhAnUdDDYGYvFPv7xluqT1iqQNJow
+RrSO828vhK9FXkyB/nWOC8wFT8rvyK/ZGQt/AQ==
+=blVk
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tokyoneon
+
+==================================================================
+
