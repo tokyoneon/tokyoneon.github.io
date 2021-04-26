@@ -10,8 +10,9 @@ url: https://tokyoneon.github.io # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
 wht_credit: '<sup>_Authored by [tokyoneon](/about), this post was originally published on [WonderHowTo](https://creator.wonderhowto.com/tokyoneon/)._</sup>'
+varonis_credit: '<sup>_Authored by [tokyoneon](/about), this post was originally published on [Varonis](https://www.varonis.com/blog/author/tokyoneon/)._</sup>'
 # host: 192.168.56.1
-port: 4002
+port: 8080
 #
 ###################################
 # Jekyll configuration
@@ -39,7 +40,7 @@ owner:
   name: tokyoneon
   avatar: tokyoneon.jpg
   job: ""
-  bio: "OSCP / eCPPT / OSWP / eCXD </br>eWPTX / PenTest+ / CySA+ </br>Security+ / eJPT / CSAP </br>CNSP / CNVP"
+  bio: "eCPPT | eWPTX | OSCP | OSWP <br> PenTest+ | CySA+ | Security+"
   email: "tokyoneon@pm.me"
   disqus-shortname:
   twitter: tokyoneon_
@@ -53,7 +54,7 @@ owner:
   bing-verify:
   github: tokyoneon
   gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: #123456/username
   linkedin: #username
   skype: #username
   xing: #username
