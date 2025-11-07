@@ -38,9 +38,9 @@ kramdown:
 #
 owner:
   name: tokyoneon
-  avatar: tokyoneon.jpg
+  avatar: "https://avatars.githubusercontent.com/u/33106572?v=4"
   job: ""
-  bio: "eCPPT | eWPTX | OSCP | OSWP <br> PenTest+ | CySA+ | Security+"
+  bio: ""
   email: "tokyoneon@pm.me"
   disqus-shortname:
   twitter: tokyoneon_
